@@ -1,8 +1,5 @@
 # As a beginner level programmer in Python , you should be able to draft and execute the problems given in order as per difficulty lavel.
 
-### 1.Puthon_basics:[Set_01-varibles-inputs-operators](https://github.com/satyaki94/-Python_Program_for_fundamentals/blob/master/EIE-Set-01-Variable_input_output.md)
-To understand do this, you should have the knowledge of following Python programming topics:
-* Python Input, Output and Import
-* Python Data Types
-* Python Operators
-#### upload your output file(s) [here](https://github.com/satyaki94/-Python_Program_for_fundamentals/tree/master/Program%20Repository/Set-01-Variable_input_output)
+## This Folder contains two main sub- folders:
+* [Problem_Repository](https://github.com/satyaki94/-Python_Program_for_fundamentals/tree/master/Probelm_Repository) - This Contains all the files that contains Problem statements. Use this folder to access files as per your difficulty level and try to formulate a Solution for the same. 
+* [Program_Repository](https://github.com/satyaki94/-Python_Program_for_fundamentals/tree/master/Program%20Repository)- This contains Sub-folders that are arranged based on Problem Statement present in [Problem_Repository](https://github.com/satyaki94/-Python_Program_for_fundamentals/tree/master/Probelm_Repository). Please access the corresponding Subfolder and upload your solution file .
